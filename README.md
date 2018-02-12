@@ -1,1 +1,1 @@
-# StringCalc-C-
+# StringCalc
