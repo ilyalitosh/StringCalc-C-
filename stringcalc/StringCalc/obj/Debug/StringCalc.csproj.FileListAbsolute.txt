@@ -1,0 +1,17 @@
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\bin\Debug\StringCalc.dll
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\bin\Debug\StringCalc.pdb
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\bin\Debug\StringCalc.pri
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\StringCalc.csproj.CoreCompileInputs.cache
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\StringCalc.dll
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\StringCalc.pdb
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\priconfig.xml
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\priconfig.xml.intermediate
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\layout.resfiles
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\layout.resfiles.intermediate
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\resources.resfiles
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\resources.resfiles.intermediate
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\pri.resfiles
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\pri.resfiles.intermediate
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\qualifiers.txt
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ilya_\source\repos\StringCalc\StringCalc\obj\Debug\MultipleQualifiersPerDimensionFound.txt
