@@ -19,7 +19,7 @@ StringCalc поддерживает:
 Пример использование: 
 ```java
 // Вызываем статический метод GetResult из StringCalc;
-double result = StringCalc.GetResult("(2+2)^2*fact(5)+log(ln(100)*100)+sin(30)");
+double result = StringCalc.GetResult("(2+2)^2*fact(5)+lg(ln(100)*100)+sin(30)");
 // Выводим результат
 Console.WriteLine("Результат: " + result);
 ```
